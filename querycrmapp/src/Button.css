@@ -1,0 +1,25 @@
+.btn {
+  background-color: #000047;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 4px 8px 0 lightgrey;
+          box-shadow: 0 4px 8px 0 lightgrey;
+  color: white;
+  border: 2px solid #000047;
+}
+
+.btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.btn:active {
+  -webkit-transform: translateY(4px);
+          transform: translateY(4px);
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+/*# sourceMappingURL=Button.css.map */

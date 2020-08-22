@@ -21,6 +21,18 @@
         border-bottom: 1px solid lightgrey;
         box-shadow:0 4px 6px 0 rgba(0, 0, 0, 0.2);
         font-size: 30px;
+        padding: 20px;
+    }
+
+    #showingMsg {
+        display: none;
+        color:white;
+        background-color: lightgreen;
+        border-style: none;
+        border-radius: 5px;
+        box-shadow:0 4px 6px 0 rgba(0, 0, 0, 0.2);
+        padding: 10px;
+        margin: 10px;
     }
 }
 
